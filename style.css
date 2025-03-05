@@ -65,9 +65,9 @@ button {
 }
 
 .colored-btn {
-    background-color: #e88a00;
+    background-color: #d6c0a0;
 }
 
 .colored-btn:hover {
-    background-color:rgb(176, 105, 0);
+    background-color:rgb(160, 142, 114);
 }
